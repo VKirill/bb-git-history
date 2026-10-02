@@ -31,3 +31,7 @@ Thumbs.db
 
 # Local agent instructions
 AGENTS.md
+.gitnexus/
+AGENTS.md
+CLAUDE.md
+.claude/
